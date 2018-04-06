@@ -44,3 +44,10 @@ easier access.
 
 I would recommend moving the bookmark to the bookmark bar under the URL bar for
 easier access.
+
+## Testing
+
+This line﻿ has several​ zero-width‌ characters in‍ it.
+
+Try copying that above line and pasting it into a text editor to see if it
+displays. Then try the bookmarklet and see if the characters are removed.
